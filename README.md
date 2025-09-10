@@ -38,9 +38,9 @@ The combination of these ensures that results are **provably fair**: players can
 
 ---
 
-## 🎮 Games
+## <img src="https://bloxcash.gg/assets/icons/crash.svg" alt="BloxCash Icon" width="24"/> Games
 
-### 🎁 Cases
+### <img src="https://bloxcash.gg/assets/icons/cases.svg" alt="BloxCash Icon" width="24"/> Cases
 
 Each case opening generates a roll between `1` and `100,000`, which maps to item probabilities.
 
@@ -66,7 +66,7 @@ console.log(getResult(combine(serverSeed, clientSeed, nonce)));
 
 ---
 
-### 🎡 Roulette
+### <img src="https://bloxcash.gg/assets/icons/roulette.svg" alt="BloxCash Icon" width="24"/> Roulette
 
 Roulette generates a result between `0–14` using the SHA-256 hash of the server seed and client seed.
 
@@ -88,7 +88,7 @@ console.log(getResult(serverSeed));
 
 ---
 
-### 🎟️ Jackpot
+### <img src="https://bloxcash.gg/assets/icons/jackpot.svg" alt="BloxCash Icon" width="24"/> Jackpot
 
 Jackpot selects a winning ticket proportional to the pot size.
 
@@ -114,7 +114,7 @@ console.log(winnerTicket);
 
 ---
 
-### 🪙 Coinflip
+### <img src="https://bloxcash.gg/assets/icons/coinflip.svg" alt="BloxCash Icon" width="24"/> Coinflip
 
 Coinflip determines the winning side (`ice` or `fire`) from a hash.
 
@@ -137,7 +137,7 @@ console.log(getResult(combine(serverSeed, clientSeed)));
 
 ---
 
-### 💣 Mines
+### <img src="https://bloxcash.gg/assets/icons/mines.svg" alt="BloxCash Icon" width="24"/> Mines
 
 Mines uses cryptographic floats and the Fisher–Yates shuffle to place mines fairly.
 
