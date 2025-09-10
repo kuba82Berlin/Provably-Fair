@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/231414877?s=400&u=d04b4a160b96a60085dd60a3f7393ad66e782fdc&v=4" alt="BloxCash Banner" width="300"/>
+  <br />
+  <a href="bloxcash.gg">BloxCash.gg</a>
 </p>
 
 # <img src="https://bloxcash.gg/assets/favicon.ico" alt="BloxCash Icon" width="28"/> BloxCash Provably Fair System
